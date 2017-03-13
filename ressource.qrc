@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/home/fjoly/reqBDD">
+        <file alias="valid">ressources/valid.png</file>
+        <file alias="cross">ressources/cross.png</file>
+    </qresource>
+</RCC>
